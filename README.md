@@ -8,3 +8,4 @@ Welcome to the Jenkins Pipeline Learning Project! This project is designed to he
 This project focuses on creating a Jenkins pipeline that automates the build, test, and deployment processes for a sample application. Through this project, students will gain hands-on experience with setting up Jenkins, configuring pipelines, integrating with GitHub, and implementing various stages such as build, testing, code analysis, and deployment.
 
 deployement testing 1
+deployemt test 2
