@@ -10,7 +10,7 @@ pipeline {
         }
         stage('Unit and Integration Tests') {
             steps {
-                // Run unit tests using JUnit or another test automation tool
+                // unit tests using JUnit or another test automation tool
                 // Run integration tests using Selenium or another integration testing tool
                 echo "Testing Stage"
             }
