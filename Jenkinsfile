@@ -52,7 +52,7 @@ pipeline {
                         to: 'vin.rohatgi@gmail.com',
                         subject: 'Deployment Successful',
                         body: 'The deployment was successful. Please verify.',
-                        attachmentsPattern:'/*.log'
+                        attachmentsPattern:'**/*.log'
                      )
                  }
             }
